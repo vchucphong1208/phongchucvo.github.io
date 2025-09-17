@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "VoChucPhong.png"
   name             : "Phong Chuc Vo"
   pronouns         : "he/" 
   bio              : "My name is Phong. I'm currently pursuing a  BSc in Theoretical Physics at the University of Science - VNUHCM. The research areas I am interested in are many-body systems."
